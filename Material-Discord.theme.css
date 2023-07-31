@@ -88,8 +88,8 @@
   --shadow-3dp: 0 8px 10px 1px rgba(0,0,0,0.14), 0 3px 14px 2px rgba(0,0,0,0.12), 0 5px 5px -3px rgba(0,0,0,0.2);
   --default-animation: cubic-bezier(0.4,0,0.2,1);
   --default-time: 250ms;
-  --scrollbar-width: 10px;
-  --scrollbar-thin-width: 6px;
+  --scrollbar-width: 12px;
+  --scrollbar-thin-width: 8px;
   --window-title-bar: 22px;
   --window-button-min: #ffbd44;
   --window-button-max: #00ca4e;
@@ -8300,7 +8300,7 @@ body:active .root-1CAIjD .container-18GwIk:not(:active) {
 
 /* APP DIRECTORY -> CARDS */
 .scrollerContainer-1E8XW1 .scrollerBase-1Pkza4 {
-  --scrollbar-width: 4px;
+  --scrollbar-width: 7px;
 }
 
 .card-2xymMp, .container-2NdZr9 {
